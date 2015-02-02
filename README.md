@@ -18,7 +18,7 @@ new Rickshaw.Fixtures.PubNub({
 ```
 
 Parameter | Value | Default
-| :------------ |:---------------| -----:|
+| :------------ |:---------------| :-----|
 | graph | Your Rickshaw.Graph. Works just like the extensions included in Rickshaw examples. | ```undefined```
 | subscribe_key | Your PubNub subscribe_key | ```demo```
 | limit | The size of your buffer. How many values on the x series to display before shifting data. | ```50```
